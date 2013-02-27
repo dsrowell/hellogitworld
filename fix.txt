@@ -3,4 +3,4 @@ Trainer making changes
 JUNK ON
 a line changed server side
 Put something at the bottom of the file
-I expect a conflict here
+I have fixed the conflict
